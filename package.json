@@ -1,0 +1,21 @@
+{
+  "name": "@hbstack/node-packages",
+  "description": "Node packages for HB Framework",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hbstack/node-packages.git"
+  },
+  "author": "Razon Yang <razonyang@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hbstack/node-packages/issues"
+  },
+  "homepage": "https://github.com/hbstack/node-packages",
+  "dependencies": {
+    "@fullhuman/postcss-purgecss": "^6.0.0",
+    "autoprefixer": "^10.4.19",
+    "postcss-cli": "^11.0.0",
+    "rtlcss": "^4.1.1"
+  }
+}
