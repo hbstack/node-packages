@@ -6,9 +6,10 @@
   ],
   "packageRules": [
     {
-      "matchManagers": ["gomod"],
-      "matchDepTypes": ["indirect"],
-      "enabled": true
+      "matchManagers": ["npm"],
+      "matchDepTypes": ["dependencies"],
+      "enabled": true,
+      "semanticCommitType": "ci"
     }
   ]
 }
