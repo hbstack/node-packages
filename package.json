@@ -17,5 +17,11 @@
     "autoprefixer": "^10.4.19",
     "postcss-cli": "^11.0.0",
     "rtlcss": "^4.1.1"
+  },
+  "bin": {
+    "autoprefixer": "node_modules/.bin/autoprefixer",
+    "postcss": "node_modules/.bin/postcss",
+    "purgecss": "node_modules/.bin/purgecss",
+    "rtlcss": "node_modules/.bin/rtlcss"
   }
 }
