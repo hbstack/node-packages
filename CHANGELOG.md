@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2](https://github.com/hbstack/node-packages/compare/node-packages-v0.1.1...node-packages-v0.1.2) (2024-05-26)
+
+
+### Bug Fixes 🐞
+
+* binaries setting ([1694856](https://github.com/hbstack/node-packages/commit/1694856fe0a22ea79fdffce50e1724d5f089079c))
+
 ## [0.1.1](https://github.com/hbstack/node-packages/compare/node-packages/v0.1.0...node-packages-v0.1.1) (2024-05-25)
 
 
