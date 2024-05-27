@@ -1,6 +1,8 @@
 {
     "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
     "release-type": "node",
+    "bootstrap-sha": "0431988f7a404d173cd18b6eb8ad1564e8be9a0b",
+    "monorepo-tags": false,
     "changelog-sections": [
         { "type": "chore", "section": "Miscellaneous Chores", "hidden": true },
         { "type": "ci", "section": "Continuous Integration" },
