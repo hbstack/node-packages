@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.3](https://github.com/hbstack/node-packages/compare/node-packages-v0.1.2...node-packages-v0.1.3) (2024-05-27)
+
+
+### Continuous Integration
+
+* fix .github/workflows/release-please.yml ([f70320f](https://github.com/hbstack/node-packages/commit/f70320f3a36bf2189c0eb12d4f2d2f1246d05cdc))
+
 ## [0.1.2](https://github.com/hbstack/node-packages/compare/node-packages-v0.1.1...node-packages-v0.1.2) (2024-05-26)
 
 
