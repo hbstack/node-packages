@@ -14,8 +14,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: googleapis/release-please-action@v4
+        id: release
         with:
-          id: release
           command: manifest
       - uses: actions/checkout@v4
         if: ${{ steps.release.outputs.release_created }}
