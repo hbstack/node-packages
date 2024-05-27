@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.3](https://github.com/hbstack/node-packages/compare/node-packages-v0.1.2...node-packages-v0.1.3) (2024-05-27)
+
+
+### Bug Fixes 🐞
+
+* remove `bin` from package.json ([0431988](https://github.com/hbstack/node-packages/commit/0431988f7a404d173cd18b6eb8ad1564e8be9a0b))
+
 ## [0.1.2](https://github.com/hbstack/node-packages/compare/node-packages-v0.1.1...node-packages-v0.1.2) (2024-05-26)
 
 
