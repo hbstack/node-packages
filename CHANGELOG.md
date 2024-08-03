@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.5](https://github.com/hbstack/node-packages/compare/node-packages-v0.1.4...node-packages-v0.1.5) (2024-08-02)
+
+
+### Continuous Integration
+
+* **deps:** update dependency autoprefixer to v10.4.20 ([aa7cd52](https://github.com/hbstack/node-packages/commit/aa7cd528cc933c23d56014bf1114c717c1a68f3e))
+
 ## [0.1.4](https://github.com/hbstack/node-packages/compare/node-packages-v0.1.3...node-packages-v0.1.4) (2024-07-25)
 
 
