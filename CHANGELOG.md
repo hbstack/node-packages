@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.6](https://github.com/hbstack/node-packages/compare/node-packages-v0.1.5...node-packages-v0.1.6) (2024-08-27)
+
+
+### Continuous Integration
+
+* **deps:** update dependency rtlcss to v4.3.0 ([1a6da3d](https://github.com/hbstack/node-packages/commit/1a6da3d2707e10555d383f67e2324fdc662899c2))
+
 ## [0.1.5](https://github.com/hbstack/node-packages/compare/node-packages-v0.1.4...node-packages-v0.1.5) (2024-08-02)
 
 
