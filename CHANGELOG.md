@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.1.6](https://github.com/hbstack/node-packages/compare/node-packages-v0.1.5...node-packages-v0.1.6) (2025-11-20)
+
+
+### Continuous Integration
+
+* **deps:** update dependency @fullhuman/postcss-purgecss to v7 ([a5fde79](https://github.com/hbstack/node-packages/commit/a5fde7943a16a0fecf3d7ec43aec16fb68e3598c))
+* **deps:** update dependency autoprefixer to v10.4.21 ([b7b2021](https://github.com/hbstack/node-packages/commit/b7b2021f48698e8a38f4895d6db1448addf943d7))
+* **deps:** update dependency autoprefixer to v10.4.22 ([3aae9da](https://github.com/hbstack/node-packages/commit/3aae9daa949c5823491a15d402e65b307bc06bd2))
+* **deps:** update dependency postcss-cli to v11.0.1 ([64f1d9a](https://github.com/hbstack/node-packages/commit/64f1d9a64852dc99da75dcc85013a578f81ae547))
+* **deps:** update dependency rtlcss to v4.3.0 ([1a6da3d](https://github.com/hbstack/node-packages/commit/1a6da3d2707e10555d383f67e2324fdc662899c2))
+
 ## [0.1.5](https://github.com/hbstack/node-packages/compare/node-packages-v0.1.4...node-packages-v0.1.5) (2024-08-02)
 
 
