@@ -1,5 +1,23 @@
 # Changelog
 
+## [0.1.6](https://github.com/hbstack/node-packages/compare/node-packages-v0.1.5...node-packages-v0.1.6) (2026-06-24)
+
+
+### Continuous Integration
+
+* **deps:** update dependency @fullhuman/postcss-purgecss to v7 ([a5fde79](https://github.com/hbstack/node-packages/commit/a5fde7943a16a0fecf3d7ec43aec16fb68e3598c))
+* **deps:** update dependency @fullhuman/postcss-purgecss to v8 ([3d7c9e6](https://github.com/hbstack/node-packages/commit/3d7c9e6f3f73e6ac0b78f285a384e0253e68b722))
+* **deps:** update dependency autoprefixer to v10.4.21 ([b7b2021](https://github.com/hbstack/node-packages/commit/b7b2021f48698e8a38f4895d6db1448addf943d7))
+* **deps:** update dependency autoprefixer to v10.4.22 ([3aae9da](https://github.com/hbstack/node-packages/commit/3aae9daa949c5823491a15d402e65b307bc06bd2))
+* **deps:** update dependency autoprefixer to v10.4.23 ([dea3a38](https://github.com/hbstack/node-packages/commit/dea3a3821cdf624609d3712fb530e384d75734e8))
+* **deps:** update dependency autoprefixer to v10.4.24 ([59d857a](https://github.com/hbstack/node-packages/commit/59d857ab577cbbe35496b5215525dbfd224be27a))
+* **deps:** update dependency autoprefixer to v10.4.27 ([4d4dc22](https://github.com/hbstack/node-packages/commit/4d4dc22e4c6f99191240df895b9b8d8ce7c8ea97))
+* **deps:** update dependency autoprefixer to v10.5.0 ([a6813d9](https://github.com/hbstack/node-packages/commit/a6813d9a1910c81458ca56acb944bdaa298245f2))
+* **deps:** update dependency autoprefixer to v10.5.1 ([06d193f](https://github.com/hbstack/node-packages/commit/06d193f0420bb98976f8ede2d48243ab688354da))
+* **deps:** update dependency autoprefixer to v10.5.2 ([fc09bfc](https://github.com/hbstack/node-packages/commit/fc09bfcc3000a1a8752da42ee5d727b42b7420cb))
+* **deps:** update dependency postcss-cli to v11.0.1 ([64f1d9a](https://github.com/hbstack/node-packages/commit/64f1d9a64852dc99da75dcc85013a578f81ae547))
+* **deps:** update dependency rtlcss to v4.3.0 ([1a6da3d](https://github.com/hbstack/node-packages/commit/1a6da3d2707e10555d383f67e2324fdc662899c2))
+
 ## [0.1.5](https://github.com/hbstack/node-packages/compare/node-packages-v0.1.4...node-packages-v0.1.5) (2024-08-02)
 
 
