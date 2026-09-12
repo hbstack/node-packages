@@ -1,5 +1,29 @@
 # Changelog
 
+## [0.1.6](https://github.com/hbstack/node-packages/compare/node-packages-v0.1.5...node-packages-v0.1.6) (2026-09-12)
+
+
+### Continuous Integration
+
+* **deps:** update dependency @fullhuman/postcss-purgecss to v7 ([a5fde79](https://github.com/hbstack/node-packages/commit/a5fde7943a16a0fecf3d7ec43aec16fb68e3598c))
+* **deps:** update dependency @fullhuman/postcss-purgecss to v8 ([3d7c9e6](https://github.com/hbstack/node-packages/commit/3d7c9e6f3f73e6ac0b78f285a384e0253e68b722))
+* **deps:** update dependency autoprefixer to v10.4.21 ([b7b2021](https://github.com/hbstack/node-packages/commit/b7b2021f48698e8a38f4895d6db1448addf943d7))
+* **deps:** update dependency autoprefixer to v10.4.22 ([3aae9da](https://github.com/hbstack/node-packages/commit/3aae9daa949c5823491a15d402e65b307bc06bd2))
+* **deps:** update dependency autoprefixer to v10.4.23 ([dea3a38](https://github.com/hbstack/node-packages/commit/dea3a3821cdf624609d3712fb530e384d75734e8))
+* **deps:** update dependency autoprefixer to v10.4.24 ([59d857a](https://github.com/hbstack/node-packages/commit/59d857ab577cbbe35496b5215525dbfd224be27a))
+* **deps:** update dependency autoprefixer to v10.4.27 ([4d4dc22](https://github.com/hbstack/node-packages/commit/4d4dc22e4c6f99191240df895b9b8d8ce7c8ea97))
+* **deps:** update dependency autoprefixer to v10.5.0 ([a6813d9](https://github.com/hbstack/node-packages/commit/a6813d9a1910c81458ca56acb944bdaa298245f2))
+* **deps:** update dependency autoprefixer to v10.5.1 ([06d193f](https://github.com/hbstack/node-packages/commit/06d193f0420bb98976f8ede2d48243ab688354da))
+* **deps:** update dependency autoprefixer to v10.5.2 ([fc09bfc](https://github.com/hbstack/node-packages/commit/fc09bfcc3000a1a8752da42ee5d727b42b7420cb))
+* **deps:** update dependency autoprefixer to v10.5.3 ([63b2a91](https://github.com/hbstack/node-packages/commit/63b2a913e6b0d7d97ba93f15d7af60fe1384f057))
+* **deps:** update dependency autoprefixer to v10.5.4 ([cac8e23](https://github.com/hbstack/node-packages/commit/cac8e231751a724c721de6070266db5b87c21aa5))
+* **deps:** update dependency autoprefixer to v10.5.5 ([0c322de](https://github.com/hbstack/node-packages/commit/0c322de1d6ae4c4fff530d87f74deabfd1080cfa))
+* **deps:** update dependency autoprefixer to v10.5.6 ([bbd6003](https://github.com/hbstack/node-packages/commit/bbd6003c344ad1ef6e184c5e3f997645bf7f82d1))
+* **deps:** update dependency autoprefixer to v10.6.0 ([c53312c](https://github.com/hbstack/node-packages/commit/c53312ce5ef2a31517d5546218b0856967b52b1b))
+* **deps:** update dependency postcss-cli to v11.0.1 ([64f1d9a](https://github.com/hbstack/node-packages/commit/64f1d9a64852dc99da75dcc85013a578f81ae547))
+* **deps:** update dependency postcss-cli to v12 ([7a79dd5](https://github.com/hbstack/node-packages/commit/7a79dd5c5b70e4bc202946645ab86a39a1d9912e))
+* **deps:** update dependency rtlcss to v4.3.0 ([1a6da3d](https://github.com/hbstack/node-packages/commit/1a6da3d2707e10555d383f67e2324fdc662899c2))
+
 ## [0.1.5](https://github.com/hbstack/node-packages/compare/node-packages-v0.1.4...node-packages-v0.1.5) (2024-08-02)
 
 
